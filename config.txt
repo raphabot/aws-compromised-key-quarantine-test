@@ -1,0 +1,8 @@
+
+# Configuration file - DO NOT COMMIT TO PRODUCTION
+aws_access_key_id = "AKIARWPN6TZ2LOJ2DHZV"
+aws_secret_access_key = "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"
+region = "us-east-1"
+
+# This is intentionally exposed for security research
+# Testing AWS quarantine policy response timing
